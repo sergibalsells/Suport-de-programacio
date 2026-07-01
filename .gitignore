@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.db
+*.opendb
+*.vsidx
+
+# C++ build files
+*.exe
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.log
